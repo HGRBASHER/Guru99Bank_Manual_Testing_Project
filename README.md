@@ -1,94 +1,102 @@
-# Guru99 Bank Manual Testing Project
+#  Guru99 Bank Manual Testing Project
 
 ##  Overview
 
-This project is a complete **Manual Testing** practice performed on the **Guru99 Bank** demo application.  
-It simulates a real software testing process starting from requirement understanding to test case execution and defect reporting.
+This project demonstrates a complete **Manual Testing** process performed on the **Guru99 Bank Demo Application**.
+It simulates a real-world QA workflow starting from requirement analysis and test planning to test execution and defect reporting.
+
+The project focuses on applying software testing concepts and delivering professional QA documentation based on industry practices.
 
 ---
 
-##  Objective
+##  Project Objectives
 
-The objective of this project is to:
-
-- Apply manual testing techniques in a real-world scenario
-- Understand **Software Development Life Cycle (SDLC)** and **Software Testing Life Cycle (STLC)**
-- Write structured and effective test cases
-- Identify and report bugs clearly and professionally
+* Apply Manual Testing concepts in a practical scenario
+* Understand and follow the **Software Development Life Cycle (SDLC)** and **Software Testing Life Cycle (STLC)**
+* Design structured and effective test cases
+* Execute functional and validation test scenarios
+* Identify, document, and report defects professionally
 
 ---
 
-##  Scope of Testing
+##  Testing Types Performed
 
-The following types of testing were performed:
+The following testing techniques were applied during the project:
 
-- Functional Testing
-- UI Testing
-- Negative Testing
-- Boundary Value Analysis
-- Validation Testing
+* Functional Testing
+* UI Testing
+* Negative Testing
+* Validation Testing
+* Boundary Value Analysis (BVA)
 
 ---
 
 ##  Modules Tested
 
-- Login Functionality  
-- New Customer Creation  
-- Edit Customer Information  
-- Delete Customer  
-- New Account  
-- Edit Account  
-- Delete Account  
-- Mini Statement  
-- Customized Statement  
-- Logout  
+The following application modules were tested:
+
+* Login Functionality
+* New Customer
+* Edit Customer
+* Delete Customer
+* New Account
+* Edit Account
+* Delete Account
+* Mini Statement
+* Customized Statement
+* Logout Functionality
 
 ---
 
 ##  Project Deliverables
 
-This repository contains:
+This repository includes:
 
-- Test Scenarios  
-- Detailed Test Cases  
-- Bug Reports  
-- Test Execution Results  
-
----
-
-##  Bug Reporting Format
-
-Each defect is documented with:
-
-- Bug ID  
-- Bug Description  
-- Steps to Reproduce  
-- Expected Result  
-- Actual Result  
-- Severity & Priority  
-- Attachments (Screenshots)
+* Test Scenarios
+* Detailed Test Cases
+* Test Execution Reports
+* Bug Reports
+* Defect Documentation
 
 ---
 
-##  Tools Used
+##  Bug Reporting Details
 
-- Manual Testing Techniques  
-- Microsoft Excel (for test case design & execution)  
-- Google Chrome (Test Environment)  
-- GitHub (Portfolio hosting)
+Each reported defect contains:
+
+* Bug ID
+* Bug Summary
+* Steps to Reproduce
+* Expected Result
+* Actual Result
+* Severity & Priority
+* Screenshots / Attachments
 
 ---
 
-##  About Me
+##  Tools & Technologies Used
 
-I am an aspiring **Software Quality Assurance Engineer** with interest in Manual Testing and continuous learning in Software Testing practices.
+* Manual Testing Techniques
+* Microsoft Excel
+* Google Chrome
+* GitHub
 
 ---
 
 ##  Key Learning Outcomes
 
-- Practical understanding of real testing workflow  
-- Improved analytical and problem-solving skills  
-- Experience in writing professional test cases and bug reports  
-- Exposure to real-world QA documentation standards  
+Through this project, I gained hands-on experience in:
 
+* Real-world software testing workflow
+* Writing professional test cases
+* Defect reporting and documentation
+* Analytical and problem-solving skills
+* QA documentation standards and best practices
+
+---
+
+##  About Me
+
+I am an aspiring **Software Quality Assurance Engineer** passionate about Manual Testing and continuously improving my knowledge in software quality practices and testing methodologies.
+
+---
